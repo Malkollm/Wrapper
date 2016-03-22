@@ -1,0 +1,242 @@
+
+STATUS | wrapper  | 2016/03/22 21:28:16 | --> Wrapper Started as Console
+STATUS | wrapper  | 2016/03/22 21:28:16 | Java Service Wrapper Standard Edition 64-bit 3.5.29
+STATUS | wrapper  | 2016/03/22 21:28:16 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/03/22 21:28:16 |     http://wrapper.tanukisoftware.com
+NOTICE | wrapper  | 2016/03/22 21:28:16 | 
+NOTICE | wrapper  | 2016/03/22 21:28:16 | --------------------------------------------------------------------
+NOTICE | wrapper  | 2016/03/22 21:28:16 | Thank you for your interest in the Java Service Wrapper.
+NOTICE | wrapper  | 2016/03/22 21:28:16 | 
+NOTICE | wrapper  | 2016/03/22 21:28:16 | You are running with a full featured trial License Key which will
+NOTICE | wrapper  | 2016/03/22 21:28:16 | allow you to run or restart the Java Service Wrapper as many times
+NOTICE | wrapper  | 2016/03/22 21:28:16 | as you like.  Each invocation of the Wrapper will shutdown
+NOTICE | wrapper  | 2016/03/22 21:28:16 | automatically after 15 minutes.
+NOTICE | wrapper  | 2016/03/22 21:28:16 | 
+NOTICE | wrapper  | 2016/03/22 21:28:16 | This limited trial License Key is useful for quick configuration
+NOTICE | wrapper  | 2016/03/22 21:28:16 | tests on various machines without the need to request a trial
+NOTICE | wrapper  | 2016/03/22 21:28:16 | license.  If more time is required, you can also immediately obtain
+NOTICE | wrapper  | 2016/03/22 21:28:16 | a one-month Free trial license:
+NOTICE | wrapper  | 2016/03/22 21:28:16 |   http://wrapper.tanukisoftware.com/trial
+NOTICE | wrapper  | 2016/03/22 21:28:16 | 
+NOTICE | wrapper  | 2016/03/22 21:28:16 | The Java Service Wrapper requires a License Key to activate the
+NOTICE | wrapper  | 2016/03/22 21:28:16 | software.  License Keys can be purchased on the Java Service Wrapper
+NOTICE | wrapper  | 2016/03/22 21:28:16 | web site:
+NOTICE | wrapper  | 2016/03/22 21:28:16 |   http://wrapper.tanukisoftware.com/purchase
+NOTICE | wrapper  | 2016/03/22 21:28:16 | 
+NOTICE | wrapper  | 2016/03/22 21:28:16 | This trial License Key in intended for testing and development and
+NOTICE | wrapper  | 2016/03/22 21:28:16 | should not be used as part of a production environment.
+NOTICE | wrapper  | 2016/03/22 21:28:16 | --------------------------------------------------------------------
+NOTICE | wrapper  | 2016/03/22 21:28:16 | 
+STATUS | wrapper  | 2016/03/22 21:28:16 | 
+STATUS | wrapper  | 2016/03/22 21:28:16 | Launching a JVM...
+INFO   | jvm 1    | 2016/03/22 21:28:17 | Error: Could not find or load main class org.tanukisoftware.wrapper.test.WrapperSimpleApp
+ERROR  | wrapper  | 2016/03/22 21:28:17 | JVM exited while loading the application.
+STATUS | wrapper  | 2016/03/22 21:28:22 | Launching a JVM...
+INFO   | jvm 2    | 2016/03/22 21:28:22 | Error: Could not find or load main class org.tanukisoftware.wrapper.test.WrapperSimpleApp
+ERROR  | wrapper  | 2016/03/22 21:28:22 | JVM exited while loading the application.
+STATUS | wrapper  | 2016/03/22 21:28:27 | Launching a JVM...
+INFO   | jvm 3    | 2016/03/22 21:28:27 | Error: Could not find or load main class org.tanukisoftware.wrapper.test.WrapperSimpleApp
+ERROR  | wrapper  | 2016/03/22 21:28:27 | JVM exited while loading the application.
+STATUS | wrapper  | 2016/03/22 21:28:32 | Launching a JVM...
+INFO   | jvm 4    | 2016/03/22 21:28:32 | Error: Could not find or load main class org.tanukisoftware.wrapper.test.WrapperSimpleApp
+ERROR  | wrapper  | 2016/03/22 21:28:32 | JVM exited while loading the application.
+STATUS | wrapper  | 2016/03/22 21:28:37 | Launching a JVM...
+INFO   | jvm 5    | 2016/03/22 21:28:37 | Error: Could not find or load main class org.tanukisoftware.wrapper.test.WrapperSimpleApp
+ERROR  | wrapper  | 2016/03/22 21:28:37 | JVM exited while loading the application.
+FATAL  | wrapper  | 2016/03/22 21:28:38 | There were 5 failed launches in a row, each lasting less than 300 seconds.  Giving up.
+FATAL  | wrapper  | 2016/03/22 21:28:38 |   There may be a configuration problem: please check the logs.
+STATUS | wrapper  | 2016/03/22 21:28:38 | <-- Wrapper Stopped
+STATUS | wrapper  | 2016/03/22 21:31:47 | --> Wrapper Started as Console
+STATUS | wrapper  | 2016/03/22 21:31:47 | Java Service Wrapper Standard Edition 64-bit 3.5.29
+STATUS | wrapper  | 2016/03/22 21:31:47 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/03/22 21:31:47 |     http://wrapper.tanukisoftware.com
+NOTICE | wrapper  | 2016/03/22 21:31:47 | 
+NOTICE | wrapper  | 2016/03/22 21:31:47 | --------------------------------------------------------------------
+NOTICE | wrapper  | 2016/03/22 21:31:47 | Thank you for your interest in the Java Service Wrapper.
+NOTICE | wrapper  | 2016/03/22 21:31:47 | 
+NOTICE | wrapper  | 2016/03/22 21:31:47 | You are running with a full featured trial License Key which will
+NOTICE | wrapper  | 2016/03/22 21:31:47 | allow you to run or restart the Java Service Wrapper as many times
+NOTICE | wrapper  | 2016/03/22 21:31:47 | as you like.  Each invocation of the Wrapper will shutdown
+NOTICE | wrapper  | 2016/03/22 21:31:47 | automatically after 15 minutes.
+NOTICE | wrapper  | 2016/03/22 21:31:47 | 
+NOTICE | wrapper  | 2016/03/22 21:31:47 | This limited trial License Key is useful for quick configuration
+NOTICE | wrapper  | 2016/03/22 21:31:47 | tests on various machines without the need to request a trial
+NOTICE | wrapper  | 2016/03/22 21:31:47 | license.  If more time is required, you can also immediately obtain
+NOTICE | wrapper  | 2016/03/22 21:31:47 | a one-month Free trial license:
+NOTICE | wrapper  | 2016/03/22 21:31:47 |   http://wrapper.tanukisoftware.com/trial
+NOTICE | wrapper  | 2016/03/22 21:31:47 | 
+NOTICE | wrapper  | 2016/03/22 21:31:47 | The Java Service Wrapper requires a License Key to activate the
+NOTICE | wrapper  | 2016/03/22 21:31:47 | software.  License Keys can be purchased on the Java Service Wrapper
+NOTICE | wrapper  | 2016/03/22 21:31:47 | web site:
+NOTICE | wrapper  | 2016/03/22 21:31:47 |   http://wrapper.tanukisoftware.com/purchase
+NOTICE | wrapper  | 2016/03/22 21:31:47 | 
+NOTICE | wrapper  | 2016/03/22 21:31:47 | This trial License Key in intended for testing and development and
+NOTICE | wrapper  | 2016/03/22 21:31:47 | should not be used as part of a production environment.
+NOTICE | wrapper  | 2016/03/22 21:31:47 | --------------------------------------------------------------------
+NOTICE | wrapper  | 2016/03/22 21:31:47 | 
+STATUS | wrapper  | 2016/03/22 21:31:47 | 
+STATUS | wrapper  | 2016/03/22 21:31:48 | Launching a JVM...
+INFO   | jvm 1    | 2016/03/22 21:31:48 | Error: Could not find or load main class org.tanukisoftware.wrapper.test.com.devcolibri.logpack.Main
+ERROR  | wrapper  | 2016/03/22 21:31:48 | JVM exited while loading the application.
+STATUS | wrapper  | 2016/03/22 21:31:53 | Launching a JVM...
+INFO   | jvm 2    | 2016/03/22 21:31:53 | Error: Could not find or load main class org.tanukisoftware.wrapper.test.com.devcolibri.logpack.Main
+ERROR  | wrapper  | 2016/03/22 21:31:53 | JVM exited while loading the application.
+STATUS | wrapper  | 2016/03/22 21:31:58 | Launching a JVM...
+INFO   | jvm 3    | 2016/03/22 21:31:58 | Error: Could not find or load main class org.tanukisoftware.wrapper.test.com.devcolibri.logpack.Main
+ERROR  | wrapper  | 2016/03/22 21:31:58 | JVM exited while loading the application.
+STATUS | wrapper  | 2016/03/22 21:32:04 | Launching a JVM...
+INFO   | jvm 4    | 2016/03/22 21:32:04 | Error: Could not find or load main class org.tanukisoftware.wrapper.test.com.devcolibri.logpack.Main
+ERROR  | wrapper  | 2016/03/22 21:32:04 | JVM exited while loading the application.
+STATUS | wrapper  | 2016/03/22 21:32:09 | Launching a JVM...
+INFO   | jvm 5    | 2016/03/22 21:32:09 | Error: Could not find or load main class org.tanukisoftware.wrapper.test.com.devcolibri.logpack.Main
+ERROR  | wrapper  | 2016/03/22 21:32:09 | JVM exited while loading the application.
+FATAL  | wrapper  | 2016/03/22 21:32:09 | There were 5 failed launches in a row, each lasting less than 300 seconds.  Giving up.
+FATAL  | wrapper  | 2016/03/22 21:32:09 |   There may be a configuration problem: please check the logs.
+STATUS | wrapper  | 2016/03/22 21:32:09 | <-- Wrapper Stopped
+STATUS | wrapper  | 2016/03/22 21:34:30 | --> Wrapper Started as Console
+STATUS | wrapper  | 2016/03/22 21:34:30 | Java Service Wrapper Standard Edition 64-bit 3.5.29
+STATUS | wrapper  | 2016/03/22 21:34:30 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/03/22 21:34:30 |     http://wrapper.tanukisoftware.com
+NOTICE | wrapper  | 2016/03/22 21:34:30 | 
+NOTICE | wrapper  | 2016/03/22 21:34:30 | --------------------------------------------------------------------
+NOTICE | wrapper  | 2016/03/22 21:34:30 | Thank you for your interest in the Java Service Wrapper.
+NOTICE | wrapper  | 2016/03/22 21:34:30 | 
+NOTICE | wrapper  | 2016/03/22 21:34:30 | You are running with a full featured trial License Key which will
+NOTICE | wrapper  | 2016/03/22 21:34:30 | allow you to run or restart the Java Service Wrapper as many times
+NOTICE | wrapper  | 2016/03/22 21:34:30 | as you like.  Each invocation of the Wrapper will shutdown
+NOTICE | wrapper  | 2016/03/22 21:34:30 | automatically after 15 minutes.
+NOTICE | wrapper  | 2016/03/22 21:34:30 | 
+NOTICE | wrapper  | 2016/03/22 21:34:30 | This limited trial License Key is useful for quick configuration
+NOTICE | wrapper  | 2016/03/22 21:34:30 | tests on various machines without the need to request a trial
+NOTICE | wrapper  | 2016/03/22 21:34:30 | license.  If more time is required, you can also immediately obtain
+NOTICE | wrapper  | 2016/03/22 21:34:30 | a one-month Free trial license:
+NOTICE | wrapper  | 2016/03/22 21:34:30 |   http://wrapper.tanukisoftware.com/trial
+NOTICE | wrapper  | 2016/03/22 21:34:30 | 
+NOTICE | wrapper  | 2016/03/22 21:34:30 | The Java Service Wrapper requires a License Key to activate the
+NOTICE | wrapper  | 2016/03/22 21:34:30 | software.  License Keys can be purchased on the Java Service Wrapper
+NOTICE | wrapper  | 2016/03/22 21:34:30 | web site:
+NOTICE | wrapper  | 2016/03/22 21:34:30 |   http://wrapper.tanukisoftware.com/purchase
+NOTICE | wrapper  | 2016/03/22 21:34:30 | 
+NOTICE | wrapper  | 2016/03/22 21:34:30 | This trial License Key in intended for testing and development and
+NOTICE | wrapper  | 2016/03/22 21:34:30 | should not be used as part of a production environment.
+NOTICE | wrapper  | 2016/03/22 21:34:30 | --------------------------------------------------------------------
+NOTICE | wrapper  | 2016/03/22 21:34:30 | 
+STATUS | wrapper  | 2016/03/22 21:34:30 | 
+STATUS | wrapper  | 2016/03/22 21:34:30 | Launching a JVM...
+INFO   | jvm 1    | 2016/03/22 21:34:30 | Error: Could not find or load main class org.tanukisoftware.wrapper.com.devcolibri.logpack.Main
+ERROR  | wrapper  | 2016/03/22 21:34:30 | JVM exited while loading the application.
+STATUS | wrapper  | 2016/03/22 21:34:35 | Launching a JVM...
+INFO   | jvm 2    | 2016/03/22 21:34:35 | Error: Could not find or load main class org.tanukisoftware.wrapper.com.devcolibri.logpack.Main
+ERROR  | wrapper  | 2016/03/22 21:34:35 | JVM exited while loading the application.
+STATUS | wrapper  | 2016/03/22 21:34:40 | Launching a JVM...
+INFO   | jvm 3    | 2016/03/22 21:34:41 | Error: Could not find or load main class org.tanukisoftware.wrapper.com.devcolibri.logpack.Main
+ERROR  | wrapper  | 2016/03/22 21:34:41 | JVM exited while loading the application.
+STATUS | wrapper  | 2016/03/22 21:34:46 | Launching a JVM...
+INFO   | jvm 4    | 2016/03/22 21:34:46 | Error: Could not find or load main class org.tanukisoftware.wrapper.com.devcolibri.logpack.Main
+ERROR  | wrapper  | 2016/03/22 21:34:46 | JVM exited while loading the application.
+STATUS | wrapper  | 2016/03/22 21:34:51 | Launching a JVM...
+INFO   | jvm 5    | 2016/03/22 21:34:51 | Error: Could not find or load main class org.tanukisoftware.wrapper.com.devcolibri.logpack.Main
+ERROR  | wrapper  | 2016/03/22 21:34:51 | JVM exited while loading the application.
+FATAL  | wrapper  | 2016/03/22 21:34:51 | There were 5 failed launches in a row, each lasting less than 300 seconds.  Giving up.
+FATAL  | wrapper  | 2016/03/22 21:34:51 |   There may be a configuration problem: please check the logs.
+STATUS | wrapper  | 2016/03/22 21:34:51 | <-- Wrapper Stopped
+STATUS | wrapper  | 2016/03/22 21:35:31 | --> Wrapper Started as Console
+STATUS | wrapper  | 2016/03/22 21:35:31 | Java Service Wrapper Standard Edition 64-bit 3.5.29
+STATUS | wrapper  | 2016/03/22 21:35:31 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/03/22 21:35:31 |     http://wrapper.tanukisoftware.com
+NOTICE | wrapper  | 2016/03/22 21:35:31 | 
+NOTICE | wrapper  | 2016/03/22 21:35:31 | --------------------------------------------------------------------
+NOTICE | wrapper  | 2016/03/22 21:35:31 | Thank you for your interest in the Java Service Wrapper.
+NOTICE | wrapper  | 2016/03/22 21:35:31 | 
+NOTICE | wrapper  | 2016/03/22 21:35:31 | You are running with a full featured trial License Key which will
+NOTICE | wrapper  | 2016/03/22 21:35:31 | allow you to run or restart the Java Service Wrapper as many times
+NOTICE | wrapper  | 2016/03/22 21:35:31 | as you like.  Each invocation of the Wrapper will shutdown
+NOTICE | wrapper  | 2016/03/22 21:35:31 | automatically after 15 minutes.
+NOTICE | wrapper  | 2016/03/22 21:35:31 | 
+NOTICE | wrapper  | 2016/03/22 21:35:31 | This limited trial License Key is useful for quick configuration
+NOTICE | wrapper  | 2016/03/22 21:35:31 | tests on various machines without the need to request a trial
+NOTICE | wrapper  | 2016/03/22 21:35:31 | license.  If more time is required, you can also immediately obtain
+NOTICE | wrapper  | 2016/03/22 21:35:31 | a one-month Free trial license:
+NOTICE | wrapper  | 2016/03/22 21:35:31 |   http://wrapper.tanukisoftware.com/trial
+NOTICE | wrapper  | 2016/03/22 21:35:31 | 
+NOTICE | wrapper  | 2016/03/22 21:35:31 | The Java Service Wrapper requires a License Key to activate the
+NOTICE | wrapper  | 2016/03/22 21:35:31 | software.  License Keys can be purchased on the Java Service Wrapper
+NOTICE | wrapper  | 2016/03/22 21:35:31 | web site:
+NOTICE | wrapper  | 2016/03/22 21:35:31 |   http://wrapper.tanukisoftware.com/purchase
+NOTICE | wrapper  | 2016/03/22 21:35:31 | 
+NOTICE | wrapper  | 2016/03/22 21:35:31 | This trial License Key in intended for testing and development and
+NOTICE | wrapper  | 2016/03/22 21:35:31 | should not be used as part of a production environment.
+NOTICE | wrapper  | 2016/03/22 21:35:31 | --------------------------------------------------------------------
+NOTICE | wrapper  | 2016/03/22 21:35:31 | 
+STATUS | wrapper  | 2016/03/22 21:35:31 | 
+STATUS | wrapper  | 2016/03/22 21:35:31 | Launching a JVM...
+INFO   | jvm 1    | 2016/03/22 21:35:32 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperSimpleApp Error: Not enough argments.  Minimum 1 required.
+INFO   | jvm 1    | 2016/03/22 21:35:33 | 
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: Error in WrapperListener.start callback.  java.lang.IllegalArgumentException: can't parse argument number: app_class{/app_method}
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: java.lang.IllegalArgumentException: can't parse argument number: app_class{/app_method}
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: 	at java.text.MessageFormat.makeFormat(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: 	at java.text.MessageFormat.applyPattern(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: 	at java.text.MessageFormat.<init>(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: 	at java.text.MessageFormat.format(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperResources.getString(WrapperResources.java:194)
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperSimpleApp.showUsage(WrapperSimpleApp.java:597)
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperSimpleApp.start(WrapperSimpleApp.java:441)
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperManager$11.run(WrapperManager.java:4242)
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: Caused by: java.lang.NumberFormatException: For input string: "app_class{/app_method}"
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: 	at java.lang.Integer.parseInt(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: 	at java.lang.Integer.parseInt(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:35:33 | WrapperManager Error: 	... 8 more
+STATUS | wrapper  | 2016/03/22 21:35:34 | <-- Wrapper Stopped
+STATUS | wrapper  | 2016/03/22 21:44:27 | --> Wrapper Started as Console
+STATUS | wrapper  | 2016/03/22 21:44:27 | Java Service Wrapper Standard Edition 64-bit 3.5.29
+STATUS | wrapper  | 2016/03/22 21:44:27 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/03/22 21:44:27 |     http://wrapper.tanukisoftware.com
+NOTICE | wrapper  | 2016/03/22 21:44:27 | 
+NOTICE | wrapper  | 2016/03/22 21:44:27 | --------------------------------------------------------------------
+NOTICE | wrapper  | 2016/03/22 21:44:27 | Thank you for your interest in the Java Service Wrapper.
+NOTICE | wrapper  | 2016/03/22 21:44:27 | 
+NOTICE | wrapper  | 2016/03/22 21:44:27 | You are running with a full featured trial License Key which will
+NOTICE | wrapper  | 2016/03/22 21:44:27 | allow you to run or restart the Java Service Wrapper as many times
+NOTICE | wrapper  | 2016/03/22 21:44:27 | as you like.  Each invocation of the Wrapper will shutdown
+NOTICE | wrapper  | 2016/03/22 21:44:27 | automatically after 15 minutes.
+NOTICE | wrapper  | 2016/03/22 21:44:27 | 
+NOTICE | wrapper  | 2016/03/22 21:44:27 | This limited trial License Key is useful for quick configuration
+NOTICE | wrapper  | 2016/03/22 21:44:27 | tests on various machines without the need to request a trial
+NOTICE | wrapper  | 2016/03/22 21:44:27 | license.  If more time is required, you can also immediately obtain
+NOTICE | wrapper  | 2016/03/22 21:44:27 | a one-month Free trial license:
+NOTICE | wrapper  | 2016/03/22 21:44:27 |   http://wrapper.tanukisoftware.com/trial
+NOTICE | wrapper  | 2016/03/22 21:44:27 | 
+NOTICE | wrapper  | 2016/03/22 21:44:27 | The Java Service Wrapper requires a License Key to activate the
+NOTICE | wrapper  | 2016/03/22 21:44:27 | software.  License Keys can be purchased on the Java Service Wrapper
+NOTICE | wrapper  | 2016/03/22 21:44:27 | web site:
+NOTICE | wrapper  | 2016/03/22 21:44:27 |   http://wrapper.tanukisoftware.com/purchase
+NOTICE | wrapper  | 2016/03/22 21:44:27 | 
+NOTICE | wrapper  | 2016/03/22 21:44:27 | This trial License Key in intended for testing and development and
+NOTICE | wrapper  | 2016/03/22 21:44:27 | should not be used as part of a production environment.
+NOTICE | wrapper  | 2016/03/22 21:44:27 | --------------------------------------------------------------------
+NOTICE | wrapper  | 2016/03/22 21:44:27 | 
+STATUS | wrapper  | 2016/03/22 21:44:27 | 
+STATUS | wrapper  | 2016/03/22 21:44:27 | Launching a JVM...
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperSimpleApp Error: Not enough argments.  Minimum 1 required.
+INFO   | jvm 1    | 2016/03/22 21:44:27 | 
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: Error in WrapperListener.start callback.  java.lang.IllegalArgumentException: can't parse argument number: app_class{/app_method}
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: java.lang.IllegalArgumentException: can't parse argument number: app_class{/app_method}
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	at java.text.MessageFormat.makeFormat(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	at java.text.MessageFormat.applyPattern(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	at java.text.MessageFormat.<init>(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	at java.text.MessageFormat.format(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperResources.getString(WrapperResources.java:194)
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperSimpleApp.showUsage(WrapperSimpleApp.java:597)
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperSimpleApp.start(WrapperSimpleApp.java:441)
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperManager$11.run(WrapperManager.java:4242)
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: Caused by: java.lang.NumberFormatException: For input string: "app_class{/app_method}"
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	at java.lang.Integer.parseInt(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	at java.lang.Integer.parseInt(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	... 8 more
+STATUS | wrapper  | 2016/03/22 21:44:28 | <-- Wrapper Stopped
