@@ -240,3 +240,53 @@ INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	at java.lang.In
 INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	at java.lang.Integer.parseInt(Unknown Source)
 INFO   | jvm 1    | 2016/03/22 21:44:27 | WrapperManager Error: 	... 8 more
 STATUS | wrapper  | 2016/03/22 21:44:28 | <-- Wrapper Stopped
+STATUS | wrapper  | 2016/03/22 21:55:34 | --> Wrapper Started as Console
+STATUS | wrapper  | 2016/03/22 21:55:34 | Java Service Wrapper Standard Edition 64-bit 3.5.29
+STATUS | wrapper  | 2016/03/22 21:55:34 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/03/22 21:55:34 |     http://wrapper.tanukisoftware.com
+NOTICE | wrapper  | 2016/03/22 21:55:34 | 
+NOTICE | wrapper  | 2016/03/22 21:55:34 | --------------------------------------------------------------------
+NOTICE | wrapper  | 2016/03/22 21:55:34 | Thank you for your interest in the Java Service Wrapper.
+NOTICE | wrapper  | 2016/03/22 21:55:34 | 
+NOTICE | wrapper  | 2016/03/22 21:55:34 | You are running with a full featured trial License Key which will
+NOTICE | wrapper  | 2016/03/22 21:55:34 | allow you to run or restart the Java Service Wrapper as many times
+NOTICE | wrapper  | 2016/03/22 21:55:34 | as you like.  Each invocation of the Wrapper will shutdown
+NOTICE | wrapper  | 2016/03/22 21:55:34 | automatically after 15 minutes.
+NOTICE | wrapper  | 2016/03/22 21:55:34 | 
+NOTICE | wrapper  | 2016/03/22 21:55:34 | This limited trial License Key is useful for quick configuration
+NOTICE | wrapper  | 2016/03/22 21:55:34 | tests on various machines without the need to request a trial
+NOTICE | wrapper  | 2016/03/22 21:55:34 | license.  If more time is required, you can also immediately obtain
+NOTICE | wrapper  | 2016/03/22 21:55:34 | a one-month Free trial license:
+NOTICE | wrapper  | 2016/03/22 21:55:34 |   http://wrapper.tanukisoftware.com/trial
+NOTICE | wrapper  | 2016/03/22 21:55:34 | 
+NOTICE | wrapper  | 2016/03/22 21:55:34 | The Java Service Wrapper requires a License Key to activate the
+NOTICE | wrapper  | 2016/03/22 21:55:34 | software.  License Keys can be purchased on the Java Service Wrapper
+NOTICE | wrapper  | 2016/03/22 21:55:34 | web site:
+NOTICE | wrapper  | 2016/03/22 21:55:34 |   http://wrapper.tanukisoftware.com/purchase
+NOTICE | wrapper  | 2016/03/22 21:55:34 | 
+NOTICE | wrapper  | 2016/03/22 21:55:34 | This trial License Key in intended for testing and development and
+NOTICE | wrapper  | 2016/03/22 21:55:34 | should not be used as part of a production environment.
+NOTICE | wrapper  | 2016/03/22 21:55:34 | --------------------------------------------------------------------
+NOTICE | wrapper  | 2016/03/22 21:55:34 | 
+STATUS | wrapper  | 2016/03/22 21:55:34 | 
+STATUS | wrapper  | 2016/03/22 21:55:34 | Launching a JVM...
+INFO   | jvm 1    | 2016/03/22 21:55:34 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperSimpleApp Error: Not enough argments.  Minimum 1 required.
+INFO   | jvm 1    | 2016/03/22 21:55:35 | 
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: Error in WrapperListener.start callback.  java.lang.IllegalArgumentException: can't parse argument number: app_class{/app_method}
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: java.lang.IllegalArgumentException: can't parse argument number: app_class{/app_method}
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: 	at java.text.MessageFormat.makeFormat(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: 	at java.text.MessageFormat.applyPattern(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: 	at java.text.MessageFormat.<init>(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: 	at java.text.MessageFormat.format(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperResources.getString(WrapperResources.java:194)
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperSimpleApp.showUsage(WrapperSimpleApp.java:597)
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperSimpleApp.start(WrapperSimpleApp.java:441)
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperManager$11.run(WrapperManager.java:4242)
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: Caused by: java.lang.NumberFormatException: For input string: "app_class{/app_method}"
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: 	at java.lang.Integer.parseInt(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: 	at java.lang.Integer.parseInt(Unknown Source)
+INFO   | jvm 1    | 2016/03/22 21:55:35 | WrapperManager Error: 	... 8 more
+STATUS | wrapper  | 2016/03/22 21:55:36 | <-- Wrapper Stopped
