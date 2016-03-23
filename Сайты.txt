@@ -1,4 +1,7 @@
 http://archeagedatabase.net/ru/calc/393183
 
 Wrapper
-http://edn.embarcadero.com/article/32068
+-http://edn.embarcadero.com/article/32068
+
+YAJSW Yet Another Java Service Wrapper
++http://yajsw.sourceforge.net/#mozTocId964398
