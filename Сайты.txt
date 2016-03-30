@@ -5,3 +5,5 @@ Wrapper
 
 YAJSW Yet Another Java Service Wrapper
 +http://yajsw.sourceforge.net/#mozTocId964398
+
+http://not-accidental-chaos.blogspot.ru/2014/01/how-to-jar-win7.html
